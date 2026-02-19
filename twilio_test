@@ -1,0 +1,7 @@
+TWILIO_TOKEN=9876543210fedcba9876543210fedcba
+# Some random comment here
+# Another comment
+DEBUG=true
+LOG_LEVEL=info
+TWILIO_SID=AC1234567890abcdef1234567890abcdef
+# End of config
